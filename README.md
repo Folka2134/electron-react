@@ -2,6 +2,8 @@
 
 Development notes:
 
+##App Image
+
 To update the app icon either change the path within electron-builder.json.
 
 ```

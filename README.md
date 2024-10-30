@@ -4,7 +4,8 @@
 
 ### Build Scripts
 
-To build for different operating systems run the following:
+To build for different operating systems run the following in the terminal
+
 Mac
 
 ```

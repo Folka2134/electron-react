@@ -12,6 +12,8 @@ Within electron-builder.json, update appId field.
 }
 ```
 
+Within package.json, update name, description and author fields.
+
 ```
 // package.json
 {
@@ -21,8 +23,6 @@ Within electron-builder.json, update appId field.
   // other options...
 }
 ```
-
-Within package.json, update name, description and author fields.
 
 ## Development notes
 

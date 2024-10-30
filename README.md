@@ -1,4 +1,5 @@
-# React + TypeScript + Vite
+# Electron React starter
+## React + TypeScript + Vite
 
 ## Development notes:
 

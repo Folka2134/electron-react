@@ -1,4 +1,4 @@
-# Electron Starer: React + TypeScript + Vite
+# Electron Starter: React + TypeScript + Vite
 
 ## Development notes:
 

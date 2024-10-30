@@ -27,6 +27,7 @@ npm run dist:linux
 ### App Image
 
 To update the app icon either change the path within electron-builder.json.
+Or update the desktopIcon.png within the root directory with another png image of atleast 255px/255px
 
 ```
 // electron-builder.json
@@ -35,5 +36,3 @@ To update the app icon either change the path within electron-builder.json.
   "icon": "./desktopIcon.png",
 }
 ```
-
-or update the desktopIcon.png with another png image of atleast 255px/255px within the root directory

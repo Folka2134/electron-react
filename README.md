@@ -7,7 +7,7 @@
 ```
 // electron-builder.json
 {
-  "appId": "./desktopIcon.png",
+  "appId": "com.folka.electron-react",
   // other options...
 }
 ```

@@ -1,6 +1,8 @@
 # Electron Starter: React + TypeScript + Vite
 
-## Configuration
+## Development notes
+
+### Configuration
 
 ./electron-builder.json: update appId field.
 
@@ -23,8 +25,6 @@
   // other options...
 }
 ```
-
-## Development notes
 
 ### Build Scripts
 

@@ -1,6 +1,30 @@
 # Electron Starter: React + TypeScript + Vite
 
-## Development notes:
+## Configuration
+
+Within electron-builder.json, update appId field.
+
+```
+// electron-builder.json
+{
+  "appId": "./desktopIcon.png",
+  // other options...
+}
+```
+
+```
+// package.json
+{
+  "name": "electron-react",
+  "description": "A demo electron react app",
+  "author": "Folka",
+  // other options...
+}
+```
+
+Within package.json, update name, description and author fields.
+
+## Development notes
 
 ### Build Scripts
 

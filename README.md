@@ -2,7 +2,7 @@
 
 ## Configuration
 
-Within electron-builder.json, update appId field.
+./electron-builder.json: update appId field.
 
 ```
 // electron-builder.json
@@ -12,7 +12,7 @@ Within electron-builder.json, update appId field.
 }
 ```
 
-Within package.json, update name, description and author fields.
+./package.json: update name, description and author fields.
 
 ```
 // package.json
